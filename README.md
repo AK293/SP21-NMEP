@@ -1,3 +1,11 @@
+#NOTE: All skeleton code and files come from the NMEP_Sp21 repository from ML@Berkeley and are made by members from ML@Berkeley. I chose to fork their repository because I want to follow along with their Spring 2021 NMEP class so that I can learn machine learning on my own. 
+
+In other words, although all skeleton code, solution pdfs, project descriptions, and files originate from ML@Berkeley, all code that completes the rest of the skeleton code in addition to all code pertaining to the individual projects themselves are written by me.  
+
+
+
+
+
 # sp21-nmep
 Skeleton Code for Homeworks and Projects for Machine Learning at Berkeley's New Member Education Program for Spring 2021.
 
